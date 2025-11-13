@@ -1,8 +1,0 @@
-{
-  "name": "bellabit-website",
-  "compatibility_date": "2025-11-13",
-  "assets": {
-    "directory": "./dist",
-    "binding": "ASSETS"
-  }
-}
