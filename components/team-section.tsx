@@ -5,15 +5,15 @@ import { Github, Twitter, Linkedin } from "lucide-react"
 
 const teamMembers = [
   {
-    name: "Member Name",
-    role: "Team Leader / Pwn",
-    bio: "Specializes in binary exploitation and kernel hacking.",
+    name: "Moamen Haytham",
+    role: "Team Leader / Penetration Testing",
+    bio: "Specializes in binary exploitation and kernel hacking",
     socials: { twitter: "#", github: "#", linkedin: "#" },
   },
   {
-    name: "Member Name",
-    role: "Web Security",
-    bio: "Bug bounty hunter and web application security researcher.",
+    name: "Waleed Osama",
+    role: "Web Penetration Tester",
+    bio: "Bug bounty hunter and web application security researcher",
     socials: { twitter: "#", github: "#", linkedin: "#" },
   },
   {
